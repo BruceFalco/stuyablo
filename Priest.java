@@ -12,4 +12,6 @@ public class Priest extends Basechar {
 	setName("Faustus");
     }
 
+    //
+
 }
